@@ -1,6 +1,15 @@
 # Releases. Seperated by line. Columns seperated by ';'
-0.12;RoomSensor_v0_21.bin
-0.13;RoomSensor_v0_21.bin
+0.1;RoomSensor.bin
+0.3;RoomSensor_v0_3.bin
+0.5;RoomSensor_v0_5.bin
+0.6;RoomSensor_v0_6.bin
+0.7;RoomSensor_v0_7.bin
+0.8;RoomSensor_v0_8.bin
+0.9;RoomSensor_v0_9.bin
+0.10;RoomSensor_v0_10.bin
+0.11;RoomSensor_v0_11.bin
+0.12;RoomSensor_v0_12.bin
+0.13;RoomSensor_v0_13.bin
 0.14;RoomSensor_v0_21.bin
 0.15;RoomSensor_v0_21.bin
 0.16;RoomSensor_v0_21.bin
