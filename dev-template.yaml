@@ -31,6 +31,7 @@ api:
 ota:
 
 dashboard_import:
+  package_import_url: github://Wisje/RoomSensor/dev-template.yaml
   import_full_config: false
 
 wifi:
